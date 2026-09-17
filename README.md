@@ -145,5 +145,4 @@ AI 에이전트를 연동한 실시간 상호작용 멀티플레이 메타버스
 
 ## 🔗 링크
   
-- 🎥 [원본 README의 시연 영상](https://youtu.be/VVDUrQgd7yk)
-
+- [시연 영상](https://youtu.be/2TKjmAMTk1I)
